@@ -1,0 +1,6 @@
+# Default ignored files
+/.idea
+src/main/**/application.properties
+target
+/.mvnw
+/.mvn
